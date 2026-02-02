@@ -1,4 +1,4 @@
-# Gerador7sensi<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR" class="bg-black text-white">
 <head>
   <meta charset="UTF-8">
